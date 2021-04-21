@@ -10,4 +10,4 @@ I also replaced Na values with `sklearn.impute`s `SimpleImputer`
 
 The source of data is: https://www.kaggle.com/mrmorj/dataset-of-songs-in-spotify
 
-It is indeed a classification algorithm because I built this model on this question : "What is the probability for each user to like this item?", and my model returned the top 5 answers along with their indexes(song names) In other words, in fundamental, my model predicted if a user “likes” or not an item or not.
+It is indeed a classification algorithm because I built this model on this question : "What is the probability for each user to like this item?", and my model returned the top 5 answers along with their indexes(song names) In other words, in fundamental, my model predicted if a user “likes” or not an item or not. Source for this explanation: https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada#:~:text=In%20content%20based%20methods%2C%20the,a%20user%20to%20an%20item).
